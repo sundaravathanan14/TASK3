@@ -1,105 +1,77 @@
 {
   "basics": {
     "name": "sundaravathanan",
-    "label": "",
-    "picture": "",
+    
     "email": "sundar.aero11@gmail.com",
-    "phone": "55 55555 5555",
-    "degree": "",
-    "website": "Your website URL",
-    "summary": "A one-sentence to one-paragraph overview text. Do not include any line-breaks.",
+    "phone": "+91-8610617807",
+    
+    
+    "summary": "Full stack developer ",
     "location": {
       "address": "Bnagalore",
       "postalCode": "560043",
       "city": "bangalore ",
       "countryCode": "India",
       "region": "Karnataka"
-    },
-    "profiles": [
-      {
-        "network": "A social media or other profile that you would like to include (e.g. LinkedIn, Twitter)",
-        "username": "Your username on this network",
-        "url": "A URL to your user profile page"
-      }
-    ]
+    }
   },
   "work": [
     {
       "company": "Guvi",
       "position": "Full stack developer ",
       "website": "guvi,in",
-      "startDate": "25-07-1990",
-      "endDate": "Your end date, in YYY-MM-DD format (leave blank for a current position)",
-      "summary": "A one-sentence to one-paragraph summary of this employer or position",
+      "startDate": "01-01-2023",
+      "summary": "Full stock developer ",
       "highlights": [
-        "Bullet-point list items that you would like to include along with (or instead of) a summary paragraph."
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Your volunteer organization name",
-      "position": "Your job title",
-      "website": "The URL for the employer's website",
-      "startDate": "Your start date, in YYYY-MM-DD format",
-      "endDate": "Your end date, in YYY-MM-DD format (leave blank for a current position)",
-      "summary": "A one-sentence to one-paragraph summary of this employer or position",
-      "highlights": [
-        "Bullet-point list items that you would like to include along with (or instead of) a summary paragraph."
+        "smart cart automation.",
+        "medicine delivery app",
+        "static website development",
+        "travels website development "
       ]
     }
   ],
   "education": [
     {
-      "institution": "Your school name",
-      "area": "Your area of study or degree earned",
-      "studyType": "",
-      "startDate": "Your start date, in YYYY-MM-DD format",
-      "endDate": "Your completion date, in YYYY-MM-DD format",
-      "gpa": "",
-      "courses": [
-        ""
-      ]
-    }
-  ],
-  "awards": [
+      "institution": "P.B college of engineering",
+      "area": "B.E(aeronatical engineer)",
+      "studyType": " Full time ",
+      "Garde": "First class",
+      "endDate": "Apr 2011"
+      
+    },
     {
-      "title": "Your award title",
-      "date": "Your date, in YYYY-MM-DD format you received the award",
-      "awarder": "Your award given by",
-      "summary": "A one-sentence to one-paragraph overview of this award"
-    }
-  ],
-  "publications": [
+      "institution": "All win Hr.sec school-thanjavur",
+      "area": "12th (bio-maths)",
+      "studyType": " Full time ",
+      "Garde": "First class",
+      "endDate": "may 2007"       
+    },
     {
-      "name": "Your publication title",
-      "publisher": "Publisher name",
-      "releaseDate": "Publication date, in YYYY-MM-DD format",
-      "website": "The website URL for this publisher or book",
-      "summary": "A one-sentence to one-paragraph overview of this publication"      
+      "institution": "St.Antonys  Hr.sec school-thanjavur",
+      "area": "1oth ",
+      "studyType": " Full time ",
+      "Garde": "First class",
+      "endDate": "may 2005"
+      
     }
   ],
   "skills": [
     {
-      "name": "A category of job skills (e.g. 'Programming Languages')",
-      "level": "",
-      "keywords": [
-        "Keywords under this category (e.g. 'Java', 'C++', etc)"
-      ]
+      "front end ": "HTML CSS Bootstarp angular",
+      "level": "Experienced ",
+      "keywords": "Node js express js mangoDB " 
     }
   ],
   "languages": [
     {
-      "language": "Language name",
-      "fluency": "Your language fluency"
+      "language": "Tamil,English ",
+      "fluency": "Native"
     }
   ],
   "interests": [
     {
-      "name": "A category of interests (e.g. 'Sports')",
-      "keywords": [
-        "Keywords under this category (e.g. 'Cricket', 'Football', 'Golf')"
+      "name": "Full statck development "
+    }
+      
       ]
     }
-  ]
-}
